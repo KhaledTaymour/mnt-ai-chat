@@ -33,26 +33,6 @@ to start the dev application
 
 to build the application
 
-### `npm run test`
-
-to run the tests
-
-### `npm run coverage`
-
-to view tests coverage
-
-### `npm run test:e2e-codegen`
-
-to help in generate e2e tests in playwright
-
-### `npm run test:e2e`
-
-run e2e tests (.spec) headless
-
-### `npm run test:e2e-headed`
-
-run e2e tests (.spec) headed
-
 ### `npm run lint`
 
 run linting using eslint
